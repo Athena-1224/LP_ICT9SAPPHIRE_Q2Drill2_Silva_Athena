@@ -1,7 +1,7 @@
 body.ghibli {
-  background-image: url("ghibli.jpg");}
+  background-image: url("ghibli.jpg"); background-size: cover;}
 body.flower {
-  background-image: url("flower.jpg");}
+  background-image: url("flower.jpg"); background-size: cover;}
 body.painting {
   background-image: url("painting.jpg"); background-size: cover;}
 body.vintage {
